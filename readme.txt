@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Use git switch -c <branch name> to create a new branch
 and switch to it.
+Creating a new branch is quick& simple.
