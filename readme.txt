@@ -7,3 +7,4 @@ Use git switch -c <branch name> to create a new branch
 and switch to it.
 Creating a new branch is quick & simple.
 try to use --no-ff
+compare with ff and --no-ff
